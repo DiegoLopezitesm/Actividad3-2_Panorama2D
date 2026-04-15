@@ -56,7 +56,3 @@ python panorama_pipeline.py
 - Necesitas mínimo 4 imágenes válidas para calibración
 
 ---
-
-## 🧑‍💻 Autor
-
-Proyecto de Robots Autónomos (ITESM)
